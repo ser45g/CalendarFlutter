@@ -1,16 +1,48 @@
-# test_app
+# App description
 
-A new Flutter project.
+## It's just a calendar app which supports notes/events
 
-## Getting Started
+**When we run the app:**
 
-This project is a starting point for a Flutter application.
+![Welcome](/readme_img/welcome.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+**Then we see our calendar:**
+![Calendar](/readme_img/calendar_light_ru.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Long press on one of the days:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](/readme_img/events_of_day_none_light_ru.jpg)
+
+**Let's add an event:**
+
+![](/readme_img/add_event_light_ru.jpg)
+
+**And now:**
+
+![](/readme_img/events_of_day_light_ru.jpg)
+
+**Notes:**
+
+![](/readme_img/notes_light_ru.jpg)
+
+**Let's add a new one:**
+
+![](/readme_img/add_note_light_ru.jpg)
+
+**And we get:**
+
+![](/readme_img/notes_new_light_ru.jpg)
+
+**We can change the mode and the language:**
+
+![](/readme_img/settings.jpg)
+
+**Dark mode:**
+
+![](/readme_img/calendar_dark_en.jpg)
+
+![](/readme_img/notes_dark_en.jpg)
+
+![](/readme_img/add_event_dark_en.jpg)
+
+![](/readme_img/events_of_day_dark_en.jpg)
