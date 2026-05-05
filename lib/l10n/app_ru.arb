@@ -1,0 +1,43 @@
+{
+  "@@locale": "ru",
+  "language": "Русский",
+  "@language": {
+    "description": "Выбранный язык"
+  },
+  "getStarted": "Начать",
+  "appTitle": "Календарь",
+
+  "mainPageTitle": "Главная страница",
+  "homeLanguage": "Язык",
+  "welcome": "Добро пожаловать в наше приложение!",
+
+  "addEvent": "Добавить событие",
+  "addNote":"Добавить запись",
+  "lastUpdatedNote": "обновлено",
+   "mainPageNavbarCalendar":"Календарь",
+     "mainPageNavbarNotes":"Записи",
+
+   "title": "ЗАГОЛОВОК",
+    "addTitleHint": "Добавить заголовок",
+    "titleCannotBeEmpty": "Заголовок не может быть пустым",
+      "to": "ДО",
+      "from": "С",
+      "description": "ОПИСАНИЕ",
+      "addDescriptionHint": "Добавить описание",
+      "save": "Сохранить",
+      "isAllDay": "Весь день",
+        "eventTasksWidget": "СОБЫТИЕ",
+       "isDone": "СТАТУС",
+         "waiting": "Ожидается...",
+         "done": "Завершено",
+         "eventsFor": "События для",
+         "noEventsFound": "События для данного дня не были найдены...",
+
+           "noteTitleHint": "Заголовок",
+            "noteDescriptionHint": "Описание",
+            "settings": "Настройки",
+             "created": "создано",
+              "yourNote": "Ваша запись",
+              "edit": "Ред.",
+              "noNotes": "На данный момент ни одной записи не существует"
+}

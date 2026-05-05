@@ -1,0 +1,46 @@
+{
+  "@@locale": "en",
+  "language": "English",
+  "@language": {
+    "description": "Selected Language"
+  },
+  "getStarted": "Get started",
+  "appTitle": "Calendar",
+
+  "mainPageTitle": "The main page",
+  "homeLanguage": "Language",
+
+
+  "welcome": "Welcome to our application!",
+  
+  "addEvent": "Add event",
+  "addNote":"Add note",
+   "lastUpdatedNote": "last updated",
+   "mainPageNavbarCalendar":"The calendar",
+   "mainPageNavbarNotes":"Notes",
+
+   "title": "TITLE",
+   "addTitleHint": "Add title",
+   "titleCannotBeEmpty": "Title cannot be empty",
+   "to": "TO",
+   "from": "FROM",
+   "description": "DESCRIPTION",
+   "addDescriptionHint": "Add description",
+   "save": "Save",
+   "isAllDay": "Is All Day",
+   "eventTasksWidget": "TITLE",
+   "isDone": "IS DONE",
+   "waiting": "Waiting...",
+   "done": "Done",
+
+   "eventsFor": "Events for",
+   "noEventsFound": "No events found...",
+
+   "noteTitleHint": "Title",
+   "noteDescriptionHint": "Description",
+   "settings": "Settings",
+   "created": "created",
+   "yourNote": "Your note",
+   "edit": "Edit",
+   "noNotes": "You don't have any notes yet, create one"
+}
